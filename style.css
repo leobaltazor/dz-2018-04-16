@@ -1,0 +1,19 @@
+body {
+	background: #555;
+	color: white;
+	font-size: 30px;
+	
+}
+
+.plus {
+	color: #555;
+}
+
+.wrapper {
+	left: 50vw;
+	position: absolute;
+}
+.text {
+	top: 50vh;
+	position: absolute;
+}
